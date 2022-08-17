@@ -1,0 +1,10 @@
+img{
+  width: 60px;
+  height: 60px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+}
+img:hover {
+  box-shadow: 0 0 2px 1px #7cfc00;
+}
